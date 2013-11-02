@@ -9,8 +9,8 @@ Simple linear text gradient plugin for jQuery.
 ```
 
 ## Authors
-[Ivan Kravchenko](http://github.com/krava)
-[Se7enSky studio](http://github.com/Se7enSky)
+- [Ivan Kravchenko](http://github.com/krava)
+- [Se7enSky studio](http://github.com/Se7enSky)
 
 ## License
 MIT
