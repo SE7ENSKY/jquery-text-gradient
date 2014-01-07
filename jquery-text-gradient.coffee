@@ -1,11 +1,11 @@
 ###
 @name jquery-text-gradient
 @description Simple linear text gradient plugin for jQuery
-@version 2.0.0
+@version 2.0.1
 @author Se7enSky studio <info@se7ensky.com>
 @example <h1 class="text-gradient" data-text-gradient="#000000-#ffffff">Just an example</h1>
 ###
-###! jquery-text-gradient 2.0.0 http://github.com/Se7enSky/jquery-text-gradient###
+###! jquery-text-gradient 2.0.1 http://github.com/Se7enSky/jquery-text-gradient###
 
 # "431265" -> [67, 18, 101]
 hex2arr = (s) ->

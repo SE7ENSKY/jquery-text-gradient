@@ -1,0 +1,10 @@
+{
+  "name": "Se7enSky/jquery-text-gradient",
+  "version": "2.0.1",
+  "main": "jquery-text-gradient.js",
+  "description": "Simple linear text gradient plugin for jQuery",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~1.10.2"
+  }
+}
